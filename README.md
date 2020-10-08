@@ -1,8 +1,7 @@
 <h1 align="center">Hi dear 👋, I'm Cleber Augusto</h1>
 <h3 align="center">A Student of science computer and passionate about innovations</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-- 🔭 I’m currently working on [HPro - Informática](http://hpro.com.br)
+- 🔭 I’m currently working on [Pecege](https://pecege.com)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Python, Delphi**
 

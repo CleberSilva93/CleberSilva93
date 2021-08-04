@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pecege](https://pecege.com)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Python, Delphi**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **contato@clebersilva.online**
 

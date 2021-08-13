@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **contato@clebersilva.online**
 
+
+<p align="center">
+<a href="http://cs-dev.zapto.org" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="cleberaugustz" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/cleberaugustz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cleberaugustz" height="20" width="20" /></a>
+</p>
+
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>

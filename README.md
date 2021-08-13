@@ -1,8 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm <a href="https://clebersilva.online" target="blank">Cleber Silva</a></h1>
 <h3 align="center">A Student of science computer and passionate about innovations</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cleberaugusz" alt="Cleber Silva" /> </p>
-
 - 🔭 I’m currently working on [WebSolutionFl](https://www.websolutionsfl.com)
 
 - 💬 Ask me about **Development**

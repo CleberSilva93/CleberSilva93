@@ -1,17 +1,11 @@
-<h1 align="center">Hi dear 👋, I'm Cleber Augusto</h1>
+<h1 align="center">Hi dear 👋, I'm <a href="https://clebersilva.online" target="blank">Cleber Silva</a></h1>
 <h3 align="center">A Student of science computer and passionate about innovations</h3>
 
 - 🔭 I’m currently working on [WebSolutionFl](https://www.websolutionsfl.com)
 
 - 💬 Ask me about **Development**
 
-- 📫 How to reach me **contato@clebersilva.online**
-
-
-<p align="center">
-<a href="http://cs-dev.zapto.org" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="cleberaugustz" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/cleberaugustz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cleberaugustz" height="20" width="20" /></a>
-</p>
+- 📫 How to reach me **contato@clebersilva.online** 
 
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>

@@ -21,10 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=CleberAugustz&show_icons=true" alt="cleberaugustz"/> 
 </p>
 
-<p align="center">
-<a href="http://cs-dev.zapto.org" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="cleberaugustz" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/cleberaugustz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cleberaugustz" height="20" width="20" /></a>
-</p>
+
 <!--
 
 Here are some ideas to get you started:

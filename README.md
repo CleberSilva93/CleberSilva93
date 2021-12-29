@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="CleberSilvaComputer">
 <h1 align="center">Hi dear 👋, I'm <a href="https://clebersilva.online" target="blank">Cleber Silva</a></h1>
 <h3 align="center">A Student of science computer and passionate about innovations</h3>
  <div>
@@ -23,6 +24,7 @@
   <a href = "mailto:contato@clebersilva.online"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleberaugustz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+ <img src="https://github-readme-stats.vercel.app/api?username=CleberAugustz&show_icons=true" alt="cleberaugustz"/> 
  
 </div>

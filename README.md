@@ -18,7 +18,7 @@
   ##
  
 <div> 
-  <a href="https://clebersilva.online" target="_blank" style="background-color: yellow;">Cleber Silva<img align="center" alt="Cleber-Online" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/chrome/chrome-original.svg" target="_blank"></a>
+  <a href="https://clebersilva.online" target="_blank" ><p style="background-color: yellow;">CleberSilva</p><img align="center" alt="Cleber-Online" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/chrome/chrome-original.svg" target="_blank"></a>
   <a href="https://instagram.com/clebersilva_93" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@clebersilva.online"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleberaugustz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
